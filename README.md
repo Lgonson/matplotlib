@@ -1,2 +1,2 @@
 # matplotlib
-Tutorial of matplotlib
+First steps using matplotlib
